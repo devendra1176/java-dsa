@@ -7,7 +7,7 @@
 // 4444
 // 55555
 
-class Pattern_4 {
+class Pattern_04 {
     public static void main(String[] args) {
         int n = 5;
         for(int i=1; i<=n;i++){

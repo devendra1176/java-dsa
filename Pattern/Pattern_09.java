@@ -15,7 +15,7 @@ Let's say for N = 5, the pattern should look like as below:
 */
 
 
-public class Pattern_9 {
+public class Pattern_09 {
     public static void main(String[] args) {
         int n = 5;
 

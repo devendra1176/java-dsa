@@ -9,7 +9,7 @@ Let's say for N = 5, the pattern should look like as below:
     *
  */
 
-public class Pattern_8 {
+public class Pattern_08 {
     public static void main(String[] args) {
         int n = 5;
         for(int i=1;i<=n;i++){

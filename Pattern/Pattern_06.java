@@ -5,7 +5,7 @@
 // 123
 // 12
 // 1
-public class Pattern_6 {
+public class Pattern_06 {
     public static void main(String[] args) {
         int n = 5;
         for(int i=n;i>=1;i--){
