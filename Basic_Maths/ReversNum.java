@@ -1,3 +1,4 @@
+package Basic_Maths;
 // Reverse Digits of A Number
 
 // Problem Statement: Given an integer N return the reverse of the given number.

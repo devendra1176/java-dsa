@@ -1,3 +1,4 @@
+package Basic_Maths;
 //Check if a number is Palindrome or Not
 
 // Problem Statement: Given an integer N, return true if it is a palindrome else return false.

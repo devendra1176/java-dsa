@@ -1,3 +1,4 @@
+package Basic_Maths;
 // Check if a number is an Armstrong Number or Not
 
 // Problem Statement: Given an integer N, return true if it is an Armstrong number else return false.
