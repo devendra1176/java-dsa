@@ -16,8 +16,6 @@ Explanation: Name is printed once.
 
 */
 
-package Basic_Recursion;
-
 import java.util.Scanner;
 
 class N_Times_Recursion {
