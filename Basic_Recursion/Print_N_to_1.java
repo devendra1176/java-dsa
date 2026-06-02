@@ -25,6 +25,7 @@ Output:
 1
 
  */
+
 public class Print_N_to_1 {
     public static void printNTo1(int n) {
         // Base case: If n is less than 1, return
