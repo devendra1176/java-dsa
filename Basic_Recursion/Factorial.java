@@ -21,7 +21,6 @@ Output: 1
 Explanation: 0! is defined as 1.
 
 */
-package Basic_Recursion;
 
 public class Factorial {
     public static int factorial(int n) {
